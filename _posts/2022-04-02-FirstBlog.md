@@ -1,1 +1,4 @@
-Quick draft of my blog notes.
+---
+title: "My First Blog"
+date: 2022-04-02
+---
