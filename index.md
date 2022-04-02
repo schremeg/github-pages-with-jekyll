@@ -1,5 +1,10 @@
 ---
-title: "Welcome to my blog"
+title: "GitHub Training Main Page"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Testing a list
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3
+  - [ ]  Item A
+  - [ ]  Item B
